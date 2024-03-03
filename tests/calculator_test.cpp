@@ -49,3 +49,51 @@ TEST(CalculatorTests, PlusTest)
 	ASSERT_EQ(6 / 3, divideResult);
 
 }**/
+
+/**TEST(CalculatorTests, PlusNameTest)
+{
+	Calculator calculator = Calculator(new NameOperationMapper());
+	double a = 6;
+	double b = 3;
+
+	double plusResult = calculator.calculate(a, b, "plus");
+
+	ASSERT_EQ(9, plusResult);
+
+}**/
+
+/**TEST(CalculatorTests, MinusNameTest)
+{
+	Calculator calculator = Calculator(new NameOperationMapper());
+	double a = 7;
+	double b = 3;
+
+	double minusResult = calculator.calculate(a, b, "minus");
+
+	ASSERT_EQ(7 - 3, minusResult);
+
+}**/
+
+/**TEST(CalculatorTests, MultiplyTest)
+{
+	Calculator calculator = Calculator(new NameOperationMapper());
+	double a = 2;
+	double b = 3;
+
+	double multiplyResult = calculator.calculate(a, b, "multiply");
+
+	ASSERT_EQ(2 * 3, multiplyResult);
+
+}**/
+
+/**TEST(CalculatorTests, DivideTest)
+{
+	Calculator calculator = Calculator(new NameOperationMapper());
+	double a = 6;
+	double b = 3;
+
+	double divideResult = calculator.calculate(a, b, "divide");
+
+	ASSERT_EQ(6 / 3, divideResult);
+
+}**/
