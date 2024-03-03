@@ -30,6 +30,14 @@ git config --global user.email johndoe@example.com
 11. Натискаємо Ctrl+F5 щоб запустити
 
 
+### Architecture ###
+![image](https://github.com/G1lmer/nf-13/assets/32224361/ab71b02d-1217-4001-8d35-b9537d1c15bb)
+
+![image](https://github.com/G1lmer/nf-13/assets/32224361/677935a1-46cb-4465-b9cb-5213cca5d807)
+
+
+
+
 
 
 
