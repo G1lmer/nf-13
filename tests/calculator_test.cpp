@@ -26,7 +26,7 @@ TEST(CalculatorTests, PlusTest)
 
 }
 
-/**TEST(CalculatorTests, MultiplyTest)
+TEST(CalculatorTests, MultiplyTest)
 {
 	Calculator calculator = Calculator(new SymbolOperationMapper());
 	double a = 2;
@@ -36,7 +36,7 @@ TEST(CalculatorTests, PlusTest)
 
 	ASSERT_EQ(2 * 3, multiplyResult);
 
-}**/
+}
 
 /**TEST(CalculatorTests, DivideTest)
 {
