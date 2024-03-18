@@ -20,7 +20,7 @@ TEST(CalculatorTests, PlusTest)
 	double a = 7.1;
 	double b = 3.4;
 
-	double plusResult = calculator.calculate(a, b, "+");
+	double plusResult = calculator.calculate(a, b, "-");
 
 	ASSERT_EQ(10.5, plusResult);
 
