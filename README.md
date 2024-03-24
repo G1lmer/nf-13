@@ -36,6 +36,29 @@ git config --global user.email johndoe@example.com
 ![image](https://github.com/G1lmer/nf-13/assets/32224361/677935a1-46cb-4465-b9cb-5213cca5d807)
 
 
+### How to push changes ###
+1. Створіть нову гілку с гілки calculator 
+![image](https://github.com/G1lmer/nf-23/assets/32224361/c1554ac9-4194-463f-b0d5-ab8a4313dc0d)
+
+2. Зробіть усі необхідні зміни в коді
+3. Зробіть git commit
+![image](https://github.com/G1lmer/nf-23/assets/32224361/723d5b1c-46ae-43d8-b2bf-5b4b1f30caff)
+
+![image](https://github.com/G1lmer/nf-23/assets/32224361/c749ee68-a6ae-4d0a-88c7-8857c2ea14c4)
+
+4. Зробіть git push
+![image](https://github.com/G1lmer/nf-23/assets/32224361/fd183e3c-354d-4db6-a604-e8e027a4f29d)
+
+5. Cтворіть pull request. Для цього перейдіть сюди https://github.com/G1lmer/nf-23/pulls і натисніть New pull request
+![image](https://github.com/G1lmer/nf-23/assets/32224361/785ad914-c6f1-4471-a8ed-686522f83a50)
+
+6. Pull request має бути з вашої гілки в гілку calculator
+![image](https://github.com/G1lmer/nf-23/assets/32224361/0a7d8874-2234-462c-b5fd-28c23b81ea72)
+
+7. Знов натисніть Create pull request
+![image](https://github.com/G1lmer/nf-23/assets/32224361/bfaa57f9-d411-480d-ae69-a6fec4305891)
+
+
 
 
 
